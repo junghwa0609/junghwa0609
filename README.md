@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Blog: [https://egg-programmer.tistory.com/](https://velog.io/@truly_flower/posts)
+Blog: [https://velog.io/@truly_flower/posts](https://velog.io/@truly_flower/posts)
 
 Email: <a href="mailto:junghwa0609@naver.com">junghwa0609@naver.com</a>
   
