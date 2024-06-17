@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning DATA ENGINEERING
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Blog: https://egg-programmer.tistory.com/
+Blog: [https://egg-programmer.tistory.com/](https://velog.io/@truly_flower/posts)
 
-Email: <a href="mailto:sohyun4283@naver.com">sohyun4283@naver.com</a>
+Email: <a href="mailto:junghwa0609@naver.com">junghwa0609@naver.com</a>
   
 ## Stacks
   
