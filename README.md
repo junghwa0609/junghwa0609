@@ -112,8 +112,6 @@ Aspiring backend/data engineer with a strong interest in data pipeline construct
 **Kyungpook National University** (경북대학교) — Daegu, South Korea  
 _B.S. in Electronic Engineering, Double Major in Computer Science_  
 Mar 2021 – Mar 2025 (Expected)  
-**GPA:** 3.18 / 4.3
-
 ---
 
 ## 🌱 Experiences
